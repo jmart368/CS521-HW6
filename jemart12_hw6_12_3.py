@@ -1,7 +1,4 @@
 """
-Name: Jose Martinez
-Class: CS 521 - 2020 Spring 1
-Date: March 1, 2020
 Homework Problem # 12.3
 Description: ATM machine games testing Account.py
 """
