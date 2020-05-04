@@ -1,7 +1,4 @@
 """
-Name: Jose Martinez
-Class: CS 521 - 2020 Spring 1
-Date: March 1, 2020
 Homework Problem # 7.7
 Description: Test the LinearEquation class from LinearEquation.py
 """
